@@ -13,6 +13,8 @@ public class Input {
         recibirInt();
         return valorInt;
     }
+    //comentario
+
 
     private static void recibirFloat() {valorFloat = sc.nextFloat();}
     public static float recibirValorFloat() {
